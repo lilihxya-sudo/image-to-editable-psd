@@ -1,0 +1,12 @@
+{
+  "name": "image-to-editable-psd",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Reconstruct editable Photoshop layers from a flattened UI image.",
+  "scripts": {
+    "dev": "npx serve web",
+    "check": "node --check web/app.js"
+  },
+  "license": "MIT"
+}
+
